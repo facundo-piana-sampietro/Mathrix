@@ -1,0 +1,224 @@
+# depslib dependency file v1.0
+1623538546 source:c:\users\usuario\desktop\codeblocks\guia 7 funciones\parcial2\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+
+1623532735 c:\users\usuario\desktop\codeblocks\guia 7 funciones\parcial2\funcionesp.h
+
+1623558338 source:c:\users\usuario\desktop\codeblocks\guia 7 funciones\parcial2\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+
+1571584339 c:\users\usuario\desktop\codeblocks\guia 7 funciones\parcial2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623969931 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+	"rlutil.h"
+
+1623963657 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\funcionesp.h
+
+1623970311 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624306206 source:c:\users\usuario\desktop\parcial2\parcial2\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+	"rlutil.h"
+
+1624232979 c:\users\usuario\desktop\parcial2\parcial2\funcionesp.h
+
+1571584339 c:\users\usuario\desktop\parcial2\parcial2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624247988 source:c:\users\usuario\desktop\parcial2\parcial2\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+	<stdlib.h>
+	<string.h>
+
+1624504119 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\parcial2\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+	"rlutil.h"
+	<limits>
+
+1624487791 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\parcial2\funcionesp.h
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\parcial2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624505166 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\segundo parcial\parcial2\parcial2\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+	<stdlib.h>
+	<string.h>
+	<limits>
+
+1625637952 source:c:\users\piana sampietro\desktop\entrega segundo parcial\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+	"rlutil.h"
+	<limits>
+	<time.h>
+
+1625636100 c:\users\piana sampietro\desktop\entrega segundo parcial\funcionesp.h
+
+1571584339 c:\users\piana sampietro\desktop\entrega segundo parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625637794 source:c:\users\piana sampietro\desktop\entrega segundo parcial\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+	<stdlib.h>
+	<string.h>
+	<limits>
+
+1625637952 source:c:\users\piana sampietro\desktop\mathrix\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+	"rlutil.h"
+	<limits>
+	<time.h>
+
+1628167390 c:\users\piana sampietro\desktop\mathrix\funcionesp.h
+
+1571584339 c:\users\piana sampietro\desktop\mathrix\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625637994 source:c:\users\piana sampietro\desktop\mathrix\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+	<stdlib.h>
+	<string.h>
+	<limits>
+
+1625637952 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\mathrix\funcionesp.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	"funcionesp.h"
+	"rlutil.h"
+	<limits>
+	<time.h>
+
+1635780931 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\mathrix\funcionesp.h
+
+1571584339 c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\mathrix\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625637994 source:c:\users\piana sampietro\desktop\utn trabajos\cuatrimestre 1\laboratorio\mathrix\main.cpp
+	<iostream>
+	"funcionesp.h"
+	<time.h>
+	"rlutil.h"
+	<stdlib.h>
+	<string.h>
+	<limits>
+
